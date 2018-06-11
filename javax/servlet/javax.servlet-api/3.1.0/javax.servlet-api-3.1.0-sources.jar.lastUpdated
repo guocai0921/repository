@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 02 21:11:02 CST 2018
+http\://repo.maven.apache.org/maven2/.lastUpdated=1517577062527
+http\://maven.restlet.org/.error=
+@default-http\://10.88.249.69\:8081/nexus/content/groups/public_repository/.lastUpdated=1517577057582
+http\://10.88.249.69\:8081/nexus/content/groups/public_repository/.error=Could not transfer artifact javax.servlet\:javax.servlet-api\:jar\:sources\:3.1.0 from/to public_repository (http\://10.88.249.69\:8081/nexus/content/groups/public_repository/)\: connect timed out
+http\://maven.restlet.org/.lastUpdated=1517577059488

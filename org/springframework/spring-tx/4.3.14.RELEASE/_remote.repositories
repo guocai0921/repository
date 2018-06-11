@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 31 09:07:27 CST 2018
+spring-tx-4.3.14.RELEASE.jar>=
+spring-tx-4.3.14.RELEASE.pom>public=
+spring-tx-4.3.14.RELEASE.jar>public=
+spring-tx-4.3.14.RELEASE-sources.jar>public=
+spring-tx-4.3.14.RELEASE-sources.jar>=

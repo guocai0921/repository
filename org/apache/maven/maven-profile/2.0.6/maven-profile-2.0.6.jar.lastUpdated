@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jan 31 16:38:48 CST 2018
+http\://10.88.249.69\:8081/nexus/content/repositories/thirdparty/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1517387928331
+http\://10.88.249.69\:8081/nexus/content/repositories/thirdparty/.lastUpdated=1517387924874

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 31 09:07:27 CST 2018
+jackson-core-2.8.10.pom>public=
+jackson-core-2.8.10.jar>=
+jackson-core-2.8.10-sources.jar>=
+jackson-core-2.8.10-sources.jar>public=
+jackson-core-2.8.10.jar>public=

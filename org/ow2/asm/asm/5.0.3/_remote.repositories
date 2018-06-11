@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 31 09:07:27 CST 2018
+asm-5.0.3-sources.jar>=
+asm-5.0.3-sources.jar>public=
+asm-5.0.3.jar>=
+asm-5.0.3.jar>central=
+asm-5.0.3.pom>central=

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 31 09:07:27 CST 2018
+HikariCP-java6-2.3.13.jar>public=
+HikariCP-java6-2.3.13-sources.jar>=
+HikariCP-java6-2.3.13.jar>=
+HikariCP-java6-2.3.13-sources.jar>public=
+HikariCP-java6-2.3.13.pom>public=

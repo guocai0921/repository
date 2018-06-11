@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue May 15 18:04:07 CST 2018
+jdbc-stdext-2.0.pom>=
+jdbc-stdext-2.0.jar>=

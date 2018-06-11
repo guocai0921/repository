@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 02 09:26:56 CST 2018
+http\://10.5.210.200\:8081/repository/maven-public/.error=Could not transfer artifact com.oracle\:ojdbc8\:pom\:12.2.0.1.0 from/to maven-public (http\://10.5.210.200\:8081/repository/maven-public/)\: The operation was cancelled.
+@default-http\://10.5.210.200\:8081/repository/maven-public/.lastUpdated=1519954016579
+http\://repo.maven.apache.org/maven2/.lastUpdated=1517383545358
+http\://maven.restlet.org/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1518147072191
+http\://repo.maven.apache.org/maven2/.error=
+http\://maven.restlet.org/.lastUpdated=1517383545151
+https\://repo.maven.apache.org/maven2/.error=

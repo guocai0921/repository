@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 02 09:24:36 CST 2018
+http\://10.5.210.200\:8081/repository/maven-public/.error=Could not transfer artifact org.apache.shiro\:shiro-spring\:pom\:1.4.0 from/to maven-public (http\://10.5.210.200\:8081/repository/maven-public/)\: connect timed out
+http\://repo.maven.apache.org/maven2/.lastUpdated=1519953876096
+@default-http\://10.5.210.200\:8081/repository/maven-public/.lastUpdated=1519953874575
+http\://maven.restlet.org/.error=
+http\://maven.restlet.org/.lastUpdated=1519953875511

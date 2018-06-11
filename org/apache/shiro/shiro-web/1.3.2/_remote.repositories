@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 31 09:07:27 CST 2018
+shiro-web-1.3.2.jar>=
+shiro-web-1.3.2-sources.jar>public=
+shiro-web-1.3.2.jar>central=
+shiro-web-1.3.2-sources.jar>=
+shiro-web-1.3.2.pom>central=
+shiro-web-1.3.2.jar>public_repository=
+shiro-web-1.3.2.pom>public_repository=

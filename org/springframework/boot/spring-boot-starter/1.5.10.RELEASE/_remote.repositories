@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 31 09:07:26 CST 2018
+spring-boot-starter-1.5.10.RELEASE-sources.jar>=
+spring-boot-starter-1.5.10.RELEASE-sources.jar>public=
+spring-boot-starter-1.5.10.RELEASE.pom>public=
+spring-boot-starter-1.5.10.RELEASE.jar>=
+spring-boot-starter-1.5.10.RELEASE.jar>public=

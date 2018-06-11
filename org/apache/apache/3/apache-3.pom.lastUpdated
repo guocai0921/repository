@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 31 15:26:43 CST 2018
+http\://10.88.249.69\:8081/nexus/content/groups/public_repository/.lastUpdated=1517383597115
+http\://10.88.249.69\:8081/nexus/content/groups/public_repository/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1517383599342
+http\://repository.codehaus.org/.error=Could not transfer artifact org.apache\:apache\:pom\:3 from/to codehaus (http\://repository.codehaus.org)\: Access denied to http\://repository.codehaus.org/org/apache/apache/3/apache-3.pom. Error code 403, Forbidden
+http\://people.apache.org/repo/m2-incubating-repository/.lastUpdated=1517383600092
+@default-http\://repository.codehaus.org/.lastUpdated=1517383603214
+http\://maven.restlet.org/.error=
+http\://maven.restlet.org/.lastUpdated=1517383598708
+http\://people.apache.org/repo/m2-incubating-repository/.error=

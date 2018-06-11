@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 02 09:26:56 CST 2018
+http\://10.5.210.200\:8081/repository/maven-public/.error=Could not transfer artifact net.sourceforge.jexcelapi\:jxl\:pom\:2.6.12 from/to maven-public (http\://10.5.210.200\:8081/repository/maven-public/)\: The operation was cancelled.
+@default-http\://10.5.210.200\:8081/repository/maven-public/.lastUpdated=1519954016109
+http\://maven.restlet.org/.error=Could not transfer artifact net.sourceforge.jexcelapi\:jxl\:pom\:2.6.12 from/to maven-restlet (http\://maven.restlet.org)\: The operation was cancelled.
+@default-http\://maven.restlet.org/.lastUpdated=1519954016115
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact net.sourceforge.jexcelapi\:jxl\:pom\:2.6.12 from/to central (http\://repo.maven.apache.org/maven2)\: The operation was cancelled.
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1519954016120

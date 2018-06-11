@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 31 09:07:27 CST 2018
+thymeleaf-extras-shiro-2.0.0-sources.jar>=
+thymeleaf-extras-shiro-2.0.0.pom>public=
+thymeleaf-extras-shiro-2.0.0.jar>public=
+thymeleaf-extras-shiro-2.0.0.jar>=
+thymeleaf-extras-shiro-2.0.0-sources.jar>public=

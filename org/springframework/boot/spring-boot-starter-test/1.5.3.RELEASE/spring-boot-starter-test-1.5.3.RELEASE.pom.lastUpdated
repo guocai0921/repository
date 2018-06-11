@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jun 11 15:16:42 CST 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1528701402226
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-test\:pom\:1.5.3.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 31 09:07:27 CST 2018
+fastjson-1.2.31-sources.jar>public=
+fastjson-1.2.31-sources.jar>=
+fastjson-1.2.31.pom>public=
+fastjson-1.2.31.jar>public=
+fastjson-1.2.31.jar>=

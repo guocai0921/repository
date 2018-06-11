@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 02 09:26:56 CST 2018
+http\://10.5.210.200\:8081/repository/maven-public/.error=Could not transfer artifact runqian\:dm_report\:pom\:1.0.1 from/to maven-public (http\://10.5.210.200\:8081/repository/maven-public/)\: The operation was cancelled.
+@default-http\://10.5.210.200\:8081/repository/maven-public/.lastUpdated=1519954016279
+http\://maven.restlet.org/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1517384136109
+http\://repo.maven.apache.org/maven2/.error=
+http\://maven.restlet.org/.lastUpdated=1517384135588

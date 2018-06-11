@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 31 19:27:13 CST 2018
+http\://repo.maven.apache.org/maven2/.lastUpdated=1517398033072
+http\://10.88.249.69\:8081/nexus/content/repositories/thirdparty/.error=Could not transfer artifact org.codehaus.plexus\:plexus-interpolation\:pom\:1.21 from/to nexus (http\://10.88.249.69\:8081/nexus/content/repositories/thirdparty/)\: connect timed out
+@default-http\://10.88.249.69\:8081/nexus/content/repositories/thirdparty/.lastUpdated=1517398032261

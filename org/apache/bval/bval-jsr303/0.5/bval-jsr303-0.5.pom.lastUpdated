@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Feb 01 12:37:37 CST 2018
+http\://repo.maven.apache.org/maven2/.lastUpdated=1517459857557
+http\://maven.restlet.org/.error=
+@default-http\://10.88.249.69\:8081/nexus/content/groups/public_repository/.lastUpdated=1517459845247
+http\://10.88.249.69\:8081/nexus/content/groups/public_repository/.error=Could not transfer artifact org.apache.bval\:bval-jsr303\:pom\:0.5 from/to public_repository (http\://10.88.249.69\:8081/nexus/content/groups/public_repository/)\: connect timed out
+http\://maven.restlet.org/.lastUpdated=1517459849389

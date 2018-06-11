@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Mar 03 13:26:34 CST 2018
+http\://10.88.249.69\:8081/nexus/content/groups/public_repository/.lastUpdated=1520054783314
+http\://10.88.249.69\:8081/nexus/content/groups/public_repository/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1517408516501
+@default-http\://10.88.249.69\:8081/nexus/content/groups/public_repository/.lastUpdated=1517408513770
+http\://repo.maven.apache.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1520054794184
+https\://repo.maven.apache.org/maven2/.error=
+http\://maven.restlet.org/.error=
+http\://maven.restlet.org/.lastUpdated=1520054788316

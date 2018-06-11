@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 31 09:07:27 CST 2018
+ehcache-core-2.5.3-sources.jar>public=
+ehcache-core-2.5.3.jar>public=
+ehcache-core-2.5.3.jar>=
+ehcache-core-2.5.3-sources.jar>=
+ehcache-core-2.5.3.pom>public=

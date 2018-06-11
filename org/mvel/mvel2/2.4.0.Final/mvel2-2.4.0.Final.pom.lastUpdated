@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 02 09:26:57 CST 2018
+http\://10.5.210.200\:8081/repository/maven-public/.error=Could not transfer artifact org.mvel\:mvel2\:pom\:2.4.0.Final from/to maven-public (http\://10.5.210.200\:8081/repository/maven-public/)\: The operation was cancelled.
+@default-http\://10.5.210.200\:8081/repository/maven-public/.lastUpdated=1519954017072
+http\://maven.restlet.org/.error=Could not transfer artifact org.mvel\:mvel2\:pom\:2.4.0.Final from/to maven-restlet (http\://maven.restlet.org)\: The operation was cancelled.
+@default-http\://maven.restlet.org/.lastUpdated=1519954017093
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.mvel\:mvel2\:pom\:2.4.0.Final from/to central (http\://repo.maven.apache.org/maven2)\: The operation was cancelled.
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1519954017099

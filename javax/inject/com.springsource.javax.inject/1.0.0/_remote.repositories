@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue May 15 20:20:24 CST 2018
+com.springsource.javax.inject-1.0.0.jar>=
+com.springsource.javax.inject-1.0.0.pom>=

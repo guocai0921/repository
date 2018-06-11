@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue May 15 19:39:15 CST 2018
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.security\:org.springframework.security.web\:jar\:3.0.5.RELEASE from/to central (http\://repo.maven.apache.org/maven2)\: connect timed out
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1526384355481

@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 02 09:21:25 CST 2018
+http\://10.5.210.200\:8081/repository/maven-public/.error=Could not transfer artifact com.baomidou\:mybatis-plus\:pom\:2.1.6 from/to maven-public (http\://10.5.210.200\:8081/repository/maven-public/)\: connect timed out
+http\://repo.maven.apache.org/maven2/.lastUpdated=1519953685868
+@default-http\://10.5.210.200\:8081/repository/maven-public/.lastUpdated=1519953683240
+http\://maven.restlet.org/.error=
+http\://maven.restlet.org/.lastUpdated=1519953684820

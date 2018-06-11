@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 02 09:26:55 CST 2018
+http\://10.5.210.200\:8081/repository/maven-public/.error=Could not transfer artifact io.springfox\:springfox-swagger2\:pom\:2.6.1 from/to maven-public (http\://10.5.210.200\:8081/repository/maven-public/)\: connect timed out
+@default-http\://10.5.210.200\:8081/repository/maven-public/.lastUpdated=1519954015726
+http\://maven.restlet.org/.error=Could not transfer artifact io.springfox\:springfox-swagger2\:pom\:2.6.1 from/to maven-restlet (http\://maven.restlet.org)\: The operation was cancelled.
+@default-http\://maven.restlet.org/.lastUpdated=1519954015743
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact io.springfox\:springfox-swagger2\:pom\:2.6.1 from/to central (http\://repo.maven.apache.org/maven2)\: The operation was cancelled.
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1519954015755

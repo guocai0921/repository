@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue May 15 19:18:14 CST 2018
+eclipselink-jpa-modelgen-2.1.pom>=
+eclipselink-jpa-modelgen-2.1.jar>=
